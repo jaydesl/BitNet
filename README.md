@@ -11,7 +11,7 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 
 >The tested models are dummy setups used in a research context to demonstrate the inference performance of bitnet.cpp.
 
-## Demo
+## Really Cool Demo
 
 A demo of bitnet.cpp running a BitNet b1.58 3B model on Apple M2:
 
